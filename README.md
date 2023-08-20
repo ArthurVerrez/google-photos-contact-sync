@@ -9,7 +9,7 @@ Indeed, as detailed in their [documentation](https://developers.google.com/photo
 Such a functionality would need to be implemented by Google or through web scraping, which is not the purpose of this repository.
 
 ## If you still want to play with the Google Photos' API in Python
-This repository contains a simple Python script that uses the [Google Photos' API](https://developers.google.com/photos/library/guides/get-started) to retrieve a list of photos in one's library and download one locally.
+This repository contains a simple Python notebook that uses the [Google Photos' API](https://developers.google.com/photos/library/guides/get-started) to retrieve a list of photos in one's library and download one locally.
 
 This is meant as a bunch of very simple examples to get started with the API.
 
